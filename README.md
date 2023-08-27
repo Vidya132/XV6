@@ -7,7 +7,7 @@ Several modfication to XV-6 are done, each task represents a particular aspect o
 * Assignment-0 : Studying the boot order and memory flow in XV6 modules (Bootasm.S, Bootblock.asm) by debugging the code and changing the address values. Basics like how memory stack(RAM) is configured and partitions etc.
 
 * Assignment-1 : This is about how to add a Custom User program and system calls in XV6.
-* 
+  
 * Assignment-2A : Here we added some curson operations in shell like left/right arrow function(which also includes editing) and shell history option which can be accessed using up and down arrow(Circular loop implementation, O(1) operation). Here we understand how shell handles consoles at different layers and buffers.
 
 * Assignment-2B : Here we customize XV6 scheduler with various policies - FCFS, Round Robin, DML, SML. We understand how the processes are activated, the process struct's parameters and process related system calls like myproc(), etc. And finally do a performance test between them.
